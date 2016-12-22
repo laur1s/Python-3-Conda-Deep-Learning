@@ -115,5 +115,4 @@ dependencies:
   - nb-conda-kernels==2.0.0
   - prompt-toolkit==1.0.9
   - ruamel-yaml-==VERSION
-prefix: /home/lauris/miniconda3/envs/p3dl
 
